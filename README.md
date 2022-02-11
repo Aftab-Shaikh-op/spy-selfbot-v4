@@ -1,5 +1,5 @@
 # spy-selfbot
-A selfbot created by RisinPlayZ#1337, not so perfectly perfect.
+A selfbot created by RisinPlayZ#0001, not so perfectly perfect.
 
 https://discord.gg/spyop
 
